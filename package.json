@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront app using mySQL and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winpildeu/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "mysql",
+    "amazon",
+    "node"
+  ],
+  "author": "Winfield H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winpildeu/bamazon/issues"
+  },
+  "homepage": "https://github.com/winpildeu/bamazon#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
